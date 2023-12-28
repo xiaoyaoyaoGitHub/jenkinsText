@@ -1,6 +1,6 @@
 import { memo } from "react";
 import { useSelector, useDispatch, shallowEqual } from "react-redux"
-import { addNumber, subNumber,changeMessageAction } from "./store/modules/counter";
+import { addNumber, subNumber } from "./store/modules/counter";
 
 import './App.css';
 
