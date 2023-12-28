@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-        <h4>App</h4>
+        <h4>App test jenkins</h4>
         <h5>count:{count}</h5>
         <button onClick={() => dispatch(addNumber(1))}>+</button>
         <button onClick={() => dispatch(subNumber(1))}>-</button> 
